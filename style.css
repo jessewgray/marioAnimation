@@ -1,0 +1,42 @@
+.red{
+    color:red;
+}
+.theBackground{
+    background-image: url("marioBackground.jpeg");
+    background-position-y: 700px;
+    height:100vh;
+}
+.marioWrap{
+    width:50px;
+    height: 75px;
+    /* border:solid; */
+    background-image: url("marioNew.png");
+}
+
+.posOne{
+    background-position-y: -110px;
+    background-position-x: 413px;
+    bottom: 165px;
+}
+.posTwo{
+    background-position-y: -197px;
+    background-position-x: 413px;
+    bottom:165px
+}
+.buttons{
+    margin-top:100px;
+}
+.jump{
+    background-position-y: -285px;
+    background-position-x: 413px;
+    bottom:275px;
+}
+
+.duck{
+    background-position-y: -523px;
+    background-position-x: 413px;
+    bottom: 165px;
+}
+.sounds{
+    visibility: hidden;
+}
