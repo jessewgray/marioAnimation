@@ -16,12 +16,14 @@
 .posOne{
     background-position-y: -110px;
     background-position-x: 413px;
-    bottom: 165px;
+    /*bottom: 165px;*/
+    top:455px;
 }
 .posTwo{
     background-position-y: -197px;
     background-position-x: 413px;
-    bottom:165px
+    /*bottom:165px;*/
+    top:455px;
 }
 .buttons{
     margin-top:100px;
@@ -35,7 +37,7 @@
 .duck{
     background-position-y: -523px;
     background-position-x: 413px;
-    bottom: 165px;
+    bottom: 224px;
 }
 .sounds{
     visibility: hidden;
